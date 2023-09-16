@@ -1,19 +1,22 @@
 /*
- *Name: [First Last]
- *UnityID: [unityID]
- *Date: [Date Completed]
- *Assignment: [Assignment Name]
- *Description: [Assignment Description]
+ *Name: Nicholas Perry
+ *UnityID: njperry2
+ *Date: 9/16/2023
+ *Assignment: Independent Assignment 4
+ *Description: CSS portion of IA4
  */
  
 p {
-    property: value;
+    color: #FF00FF;
 }
 
-.class {
-    property: value;
+.table-border {
+    border: 1px solid #FFFFFF;
 }
 
-#id {
-    property:value;
+#photo-resize {
+    max-width: 200px;
+    max-height: 250px;
+    border: 2px solid;
+    border: outset #00FF00;
 }
