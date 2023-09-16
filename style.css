@@ -5,7 +5,11 @@
  *Assignment: Independent Assignment 4
  *Description: CSS portion of IA4
  */
- 
+
+body{
+ background-color: #0F0F0F;
+} 
+
 p {
     color: #FF00FF;
 }
